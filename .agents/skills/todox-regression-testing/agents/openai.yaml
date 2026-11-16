@@ -1,0 +1,4 @@
+interface:
+  display_name: "ToDoX · Diagnóstico e testes"
+  short_description: "Diagnóstico e testes de regressão do ToDoX"
+  default_prompt: "Use $todox-regression-testing para investigar a falha e executar as verificações pertinentes no ToDoX da pasta new."

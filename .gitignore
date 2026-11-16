@@ -1,0 +1,76 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-user-base/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Frontend dependencies and generated files
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.tsbuildinfo
+
+# Desktop builds, installers and release archives
+build/
+*.exe
+*.msi
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.zip
+*.7z
+
+# Personal application data and backups
+tarefas.json
+tarefas.json.*
+configuracoes.json
+configuracoes.json.*
+*.db
+*.sqlite
+*.sqlite3
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.local
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Local editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.suo
+*.user
+
+# Store screenshots, design experiments and unused starter assets
+/store-assets/
+/docs/checklist-mockup-prompt.md
+/docs/checklist-mockup.png
+/docs/checklistDesign.md
+/docs/checklistValidation.md
+/frontend/src/assets/
+/frontend/public/todox-logo.png

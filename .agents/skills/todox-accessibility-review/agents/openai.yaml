@@ -1,0 +1,4 @@
+interface:
+  display_name: "ToDoX — Revisão de acessibilidade"
+  short_description: "Teclado, foco e legibilidade em new"
+  default_prompt: "Use $todox-accessibility-review para revisar a interface em new e apontar problemas reproduzíveis e correções."

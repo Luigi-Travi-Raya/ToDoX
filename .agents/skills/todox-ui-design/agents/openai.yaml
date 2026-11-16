@@ -1,0 +1,4 @@
+interface:
+  display_name: "ToDoX — Design de interface"
+  short_description: "Design Vue, componentes e temas em new"
+  default_prompt: "Use $todox-ui-design para melhorar a interface em new e definir estados e critérios de aceitação."

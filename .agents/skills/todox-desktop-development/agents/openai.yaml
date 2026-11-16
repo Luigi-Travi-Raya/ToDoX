@@ -1,0 +1,4 @@
+interface:
+  display_name: "ToDoX · Desenvolvimento desktop"
+  short_description: "Python, Vue e integrações desktop do ToDoX"
+  default_prompt: "Use $todox-desktop-development para implementar a mudança solicitada no ToDoX da pasta new."
